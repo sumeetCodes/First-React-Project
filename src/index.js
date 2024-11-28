@@ -1,27 +1,27 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import Header from './Header';
-import { Heading } from './heading';
+  import React from 'react';
+  import ReactDOM from 'react-dom/client';
+  import './index.css';
+  import App from './App';
+import Header from './components/Header/Header';
+import Herosection from './components/Herosection/Herosection';
 
 
 
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
+  const root = ReactDOM.createRoot(document.getElementById('root'));
+  root.render(
 
-// <> are empty fragment
-// <> is used because all the component should have single parent
-  <>
+  // <> are empty fragment
+  // <> is used because all the component should have single parent
+    <>
 
-{/* App and Header are the components */}
+  {/* App and Header are the components */}
 
-  <App />
-  <Header />
-<Heading />
+    <App />
+    <Header />
+    <Herosection />
 
-  </>
-    
- 
-);
+    </>
+      
+  
+  );
