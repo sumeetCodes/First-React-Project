@@ -4,6 +4,7 @@
   import App from './App';
 import Header from './components/Header/Header';
 import Herosection from './components/Herosection/Herosection';
+import Quote from './components/QuoteSection/Quote';
 
 
 
@@ -20,6 +21,7 @@ import Herosection from './components/Herosection/Herosection';
     <App />
     <Header />
     <Herosection />
+<Quote />
 
     </>
       

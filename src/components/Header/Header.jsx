@@ -1,7 +1,7 @@
 const Header = () => {
     return (
 <>
-<div className="sticky-top d-flex justify-content-around align-items-center z-2">
+<div className="sticky-top bg-white py-2 d-flex justify-content-around align-items-center z-2">
     <h2 className="fw-bold fs-4">Start Bootstrap</h2>
     <ul class="nav">
   <li class="nav-item px-4">Features</li>

@@ -1,13 +1,13 @@
 
 import './Herosection.css';
 import DownloadStoreImg from "../DownloadStore/DownloadStoreimg.jsx"
-import Mobileimg from "../Mobileimg/Mobileimg.jsx";
+import Mobileimg from "../MobileImg/Mobileimg.jsx"
 
 
 const Herosection = () => {
     return (
         <>
-            <div className="container mt-5">
+            <div className="container mt-5 mb-5">
                 <div className="row">
 
                     {/* Left side */}
