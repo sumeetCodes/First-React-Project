@@ -1,6 +1,6 @@
 import './Herosection.css';
 import DownloadStoreImg from "../DownloadStore/DownloadStoreimg.jsx"
-import Mobileimgs from '../MobileImages/Mobileimage.jsx';
+import Mobileimgs from '../mobileimages/Mobileimage.jsx';
 
 
 const Herosection = () => {
