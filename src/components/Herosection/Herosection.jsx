@@ -11,7 +11,7 @@ const Herosection = () => {
                 <div className="row">
 
                     {/* Left side */}
-                    <div className="col-sm-12 col-lg-6 col-md-6 col-12">
+                    <div className="col-sm-12 col-lg-7 col-md-7 col-12 mb-3">
                         <h1 className="fw-bold f-15">Showcase your app beautifully.</h1>
                         <p className="text-secondary w-75">Launch your mobile app landing page faster with this free, open source theme from Start Bootstrap!</p>
                         <DownloadStoreImg />
@@ -19,7 +19,7 @@ const Herosection = () => {
 
                     {/* right side */}
 
-                    <div className="col-12 col-lg-6 col-sm-12 col-md-6">
+                    <div className="col-12 col-lg-5 col-sm-12 col-md-5">
                         <Mobileimg />
                     </div>
 
