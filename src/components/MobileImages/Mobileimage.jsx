@@ -6,6 +6,7 @@ import mobileHero from "../../imgs/MobileHeroSection.PNG"
 const Mobileimgs = () => {
     return(
         <>
+        {/* Mobile image */}
         <img src={mobileHero} alt="Mobile phone image" />
         </>
     );
