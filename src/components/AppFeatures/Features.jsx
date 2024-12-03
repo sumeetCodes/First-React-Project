@@ -1,5 +1,7 @@
-import Mobileimg from '../MobileImg/Mobileimg.jsx';
+
+
 import './Features.css'
+import Mobileimgs from '../MobileImages/Mobileimage.jsx';
 
 const Features = () => {
   return (
@@ -11,7 +13,7 @@ const Features = () => {
 
             {/* left side */}
             <div className="col-lg-5">
-              <Mobileimg />
+              <Mobileimgs />
             </div>
 
             {/* right side */}

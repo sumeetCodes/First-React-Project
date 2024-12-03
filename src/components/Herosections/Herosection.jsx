@@ -1,6 +1,6 @@
 import './Herosection.css';
 import DownloadStoreImg from "../DownloadStore/DownloadStoreimg.jsx"
-import Mobileimg from "../Mobileimg/Mobileimg.jsx"
+import Mobileimgs from '../MobileImages/Mobileimage.jsx';
 
 
 const Herosection = () => {
@@ -19,7 +19,7 @@ const Herosection = () => {
                     {/* right side */}
 
                     <div className="col-12 col-lg-5 col-sm-12 col-md-5">
-                        <Mobileimg />
+                        <Mobileimgs />
                     </div>
 
                 </div>
