@@ -6,7 +6,7 @@ const Quote = () => {
 
         <>
             <aside className="text-center mt-5 bg-gradient-primary-to-secondary">
-                <div className='containner px-5'>
+                <div className='container px-5'>
                     <div className='row gx-5 justify-content-center'>
                         <div class="w-75 quote_heading text-white mb-4">
                             "An intuitive solution to a common problem that 
