@@ -2,14 +2,7 @@
   import ReactDOM from 'react-dom/client';
   import './index.css';
   import App from './App';
-import Header from './components/Header/Header';
-import Herosection from './components/Herosection/Herosection';
-import Quote from './components/QuoteSection/Quote';
-import Features from './components/AppFeatures/Features';
-import WebDesign from './components/Webdesigns/WebDesign';
-import Cta from './components/Call_to_action/Cta';
-import AppBadge from './components/App_badge_section/AppBadge';
-import Footer from './components/Footer_section/Footer';
+
 
 
 
@@ -25,14 +18,7 @@ import Footer from './components/Footer_section/Footer';
     {/* App and Header are the components */}
 
     <App />
-    <Header />
-    <Herosection />
-<Quote />
-<Features />
-<WebDesign />
-<Cta />
-<AppBadge />
-<Footer />
+   
 
 
     </>
