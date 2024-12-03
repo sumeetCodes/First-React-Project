@@ -1,13 +1,14 @@
 
 
 import './Features.css'
+// import Mobileimgs from './MobileImages/Mobileimage.jsx';
 import Mobileimgs from '../MobileImages/Mobileimage.jsx';
 
 const Features = () => {
   return (
     <>
 
-      <div className="container mt-5">
+      <div className="container mt-5">b
         <div className="row">
           <div className="d-flex align-items-center justify-content-between flex-wrap">
 

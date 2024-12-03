@@ -1,5 +1,5 @@
 
-import DownloadStoreImg from "../DownloadStore/DownloadStoreimg";
+
 import "./AppBadge.css"
 
 const AppBadge = () => {
@@ -13,7 +13,7 @@ const AppBadge = () => {
                         <div class="mt-5 w-75 badge_heading text-white mb-4">
                            Get the app now!
                            <div className="mt-3">
-                           <DownloadStoreImg />
+                         
                            </div>
                            
                            </div>
