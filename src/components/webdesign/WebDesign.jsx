@@ -7,7 +7,7 @@ return(
 <>
 
 
-    <div className='container mb-5'>
+    <div className='container mb-5 mt-5'>
 <div className='row g-0'>
 <div className='col-12 col-lg-4 col-md-4 col-sm-12'>
         <h2 className='text-black mb-2 fs-1 fw-semibold text_font_style lh-base'>Enter a new age of web design</h2>

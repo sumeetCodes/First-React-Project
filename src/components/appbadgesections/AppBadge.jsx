@@ -1,6 +1,6 @@
 
 
-import "./AppBadge.css"
+import "./appbadge.css"
 
 const AppBadge = () => {
     return(

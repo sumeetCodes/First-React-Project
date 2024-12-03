@@ -5,18 +5,31 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min";
 import 'bootstrap-icons/font/bootstrap-icons.css';
 
-import Header from './Components/Header_section/Header.jsx';
-import Herosection from './Components/Herosections/Herosection.jsx';
-import Quote from "./Components/QuoteSection/Quote.jsx"
+// components import
 
-import WebDesign from "./Components/Webdesigns/WebDesign.jsx"
-import Cta from "./Components/Call_to_action/Cta.jsx"
+// Header import
+import Header from "./components/Header_section/Header.jsx";
 
-import Footer from "./Components/Footer_section/Footer.jsx"
+// Hero section import
+import Herosection from "./components/Herosections/Herosection.jsx";
 
-// feature import
-import Features from './Components/AppFeatures/Features.jsx';
+// Quote section import
+import Quote from "./components/QuoteSection/Quote.jsx";
 
+// Features section import
+import Features from "./components/appfeature/Features.jsx";
+
+// Web Design import
+import WebDesign from "./components/webdesign/WebDesign.jsx";
+
+// call to action cta section import
+import Cta from "./components/Call_to_action/Cta.jsx";
+
+// appbadge section import
+import AppBadge from "./components/appbadgesections/AppBadge.jsx";
+
+// Footer section import
+import Footer from "./components/Footer_section/Footer.jsx"
 
 function App() {
   return (
@@ -28,7 +41,7 @@ function App() {
 <Features />
 <WebDesign />
 <Cta />
-{/* <AppBadge /> */}
+<AppBadge />
 <Footer />
 
     </>
