@@ -1,4 +1,4 @@
-import Mobileimg from "../MobileImg/Mobileimg";
+import Mobileimg from '../MobileImg/Mobileimg.jsx';
 import './Features.css'
 
 const Features = () => {
