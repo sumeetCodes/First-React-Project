@@ -5,6 +5,7 @@
 import Header from './components/Header/Header';
 import Herosection from './components/Herosection/Herosection';
 import Quote from './components/QuoteSection/Quote';
+import Features from './components/AppFeatures/Features';
 
 
 
@@ -16,12 +17,13 @@ import Quote from './components/QuoteSection/Quote';
   // <> is used because all the component should have single parent
     <>
 
-  {/* App and Header are the components */}
+    {/* App and Header are the components */}
 
     <App />
     <Header />
     <Herosection />
 <Quote />
+<Features />
 
     </>
       
