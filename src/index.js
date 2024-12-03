@@ -14,6 +14,7 @@ import Footer from './components/Footer_section/Footer';
 
 
 
+
   const root = ReactDOM.createRoot(document.getElementById('root'));
   root.render(
 
