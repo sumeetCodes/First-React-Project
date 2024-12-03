@@ -4,6 +4,7 @@ const Cta = () => {
     return(
 
 <>
+{/* cta section call to action */}
 <div className='container-fluid p-5 bg-secondary'>
                     <div className='row gx-5 justify-content-center'>
                         <div class="w-75 mb-4 text-white">

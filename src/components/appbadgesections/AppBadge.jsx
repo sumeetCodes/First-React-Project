@@ -6,6 +6,7 @@ const AppBadge = () => {
     return(
 
         <>
+{/* App BADGE */}
 
         <section className="bg-gradient-primary-to-secondary text-center">
         <div className="container-fluid px-5 py-3">

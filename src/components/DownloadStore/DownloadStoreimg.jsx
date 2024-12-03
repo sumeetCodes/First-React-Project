@@ -8,6 +8,7 @@ const DownloadStoreImg = () => {
     return (
 
         <>
+        {/* app store & play store images */}
             <img className="mt-2 me-1" src={appStore} alt="" />
             <img className="mt-2 ms-1" src={googlePlay} alt="" />
 

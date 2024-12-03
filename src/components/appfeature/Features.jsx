@@ -7,6 +7,7 @@ import Mobileimgs from './MobileImages/Mobileimage.js';
 const Features = () => {
   return (
     <>
+{/* app features section */}
 
       <div className="container mt-5">
         <div className="row">

@@ -6,7 +6,7 @@ return(
 
 <>
 
-
+{/* Web design section */}
     <div className='container mb-5 mt-5'>
 <div className='row g-0'>
 <div className='col-12 col-lg-4 col-md-4 col-sm-12'>

@@ -6,6 +6,7 @@ import Mobileimgs from '../MobileImages/Mobileimage.jsx';
 const Herosection = () => {
     return (
         <>
+        {/* Hero section */}
             <div className="container mt-5 mb-5">
                 <div className="row">
 

@@ -4,6 +4,7 @@ import "./Header.css"
 const Header = () => {
     return (
         <>
+        {/* Header */}
             <div className="sticky-top bg-white py-2 d-flex justify-content-around align-items-center z-2">
                 <h2 className="fw-bold fs-4">Start Bootstrap</h2>
                 <ul className="nav">

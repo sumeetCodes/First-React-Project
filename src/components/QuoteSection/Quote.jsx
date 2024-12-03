@@ -5,6 +5,7 @@ const Quote = () => {
     return (
 
         <>
+        {/* Quote aside section */}
             <aside className="text-center mt-5 bg-gradient-primary-to-secondary">
                 <div className='container px-5'>
                     <div className='row gx-5 justify-content-center'>
